@@ -1,0 +1,23 @@
+:host {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+article {
+  width: 300px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  margin: 20px;
+}
+h1 {
+  font-size: 1.3em;
+}
+img {
+  width: 80%;
+  display: block;
+  margin-bottom: 15px;
+}
+span {
+  font-size: .8em;
+}
